@@ -1,0 +1,582 @@
+[
+    {
+        "filename": "c1-1.JPG",
+        "obj_array": [
+        ]
+    },
+    {
+        "filename": "c1-2.JPG",
+        "obj_array": [
+            {
+                "bbox": "386,-68,676,436",
+                "center": "724,150",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "57,1491,687,659",
+                "center": "400,1820",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1922,1152,677,668",
+                "center": "2260,1486",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3903,2266,744,746",
+                "center": "4275,2639",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "4763,1888,280,639",
+                "center": "4903,2208",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "4647,513,377,697",
+                "center": "4836,862",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3401,581,705,707",
+                "center": "3754,934",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c1-3.JPG",
+        "obj_array": [
+            {
+                "bbox": "-58,300,637,649",
+                "center": "260,624",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "898,862,648,658",
+                "center": "1222,1191",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1951,397,667,668",
+                "center": "2284,731",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3111,368,667,658",
+                "center": "3444,697",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "4435,232,666,630",
+                "center": "4768,547",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3981,1762,666,688",
+                "center": "4314,2106",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3903,3109,609,203",
+                "center": "4208,3210",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2763,1636,657,659",
+                "center": "3092,1966",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1169,1927,686,717",
+                "center": "1512,2286",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c1-4.JPG",
+        "obj_array": [
+            {
+                "bbox": "1729,2866,715,552",
+                "center": "2086,3142",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2715,2711,705,630",
+                "center": "3068,3026",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3584,1714,696,687",
+                "center": "3932,2058",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3662,774,686,669",
+                "center": "4005,1108",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2338,251,647,611",
+                "center": "2662,556",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1681,1772,657,697",
+                "center": "2010,2120",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "521,3079,609,194",
+                "center": "826,3176",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "357,1908,667,687",
+                "center": "690,2252",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "-58,474,579,659",
+                "center": "232,804",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1111,348,666,649",
+                "center": "1444,672",
+                "color": "0,255,24.7597",
+                "label": "c1",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c2-1.JPG",
+        "obj_array": [
+            {
+                "bbox": "347,368,870,842",
+                "center": "782,789",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2019,629,889,843",
+                "center": "2464,1050",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3671,154,841,795",
+                "center": "4092,552",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3768,1917,860,882",
+                "center": "4198,2358",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1942,2343,908,872",
+                "center": "2396,2779",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "212,2063,908,871",
+                "center": "666,2498",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c2-2.JPG",
+        "obj_array": [
+            {
+                "bbox": "492,590,822,785",
+                "center": "903,982",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2077,242,841,765",
+                "center": "2498,624",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3536,891,831,823",
+                "center": "3952,1302",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3459,2247,850,842",
+                "center": "3884,2668",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1951,1917,860,843",
+                "center": "2381,2338",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "212,2179,812,842",
+                "center": "618,2600",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c2-3.JPG",
+        "obj_array": [
+            {
+                "bbox": "386,271,686,649",
+                "center": "729,596",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1439,397,686,649",
+                "center": "1782,722",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2579,358,687,629",
+                "center": "2922,672",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3797,280,705,659",
+                "center": "4150,610",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3845,1433,706,668",
+                "center": "4198,1767",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2724,1355,715,688",
+                "center": "3082,1699",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2541,2527,734,717",
+                "center": "2908,2886",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "937,2324,715,707",
+                "center": "1294,2678",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1265,1510,735,669",
+                "center": "1632,1844",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "96,1346,725,678",
+                "center": "458,1685",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "c2-4.JPG",
+        "obj_array": [
+            {
+                "bbox": "756,383,495,483",
+                "center": "1004,624",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1692,551,504,472",
+                "center": "1944,787",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "652,1316,515,508",
+                "center": "910,1570",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1597,1493,507,493",
+                "center": "1850,1740",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2632,1268,504,515",
+                "center": "2884,1526",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2635,295,495,472",
+                "center": "2882,531",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3517,610,493,494",
+                "center": "3764,857",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3536,1414,503,513",
+                "center": "3788,1670",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3903,2217,561,523",
+                "center": "4184,2478",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "2724,2237,532,523",
+                "center": "2990,2498",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "1671,2324,522,513",
+                "center": "1932,2580",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "550,2372,512,514",
+                "center": "806,2629",
+                "color": "255,0,255",
+                "label": "c2",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    }
+]
